@@ -3,7 +3,7 @@
 
 ### Sobre o HomePonto:
 
-Este é um projeto Swift para ponto eletronico de uso pessoal, para controle de jornada de trabalho, durante o Home Office.
+Este é um projeto Swift para ponto eletronico de uso pessoal (controle de jornada de trabalho), durante o Home Office.
 
 ## License
 
